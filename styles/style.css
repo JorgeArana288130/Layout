@@ -1,0 +1,51 @@
+*{
+	font-family: times;
+	text-decoration: none;
+}
+body{
+	background-color: #B8D4DE;
+}
+#wrapper{
+	background-color: lightgreen;
+	width: 90%;
+	margin: 1% 5%;
+}
+header{
+	text-align: center;
+	background-color: grey;
+	color: #ffffff;
+	padding: 1em;
+}
+nav{
+	background-color: green;
+	width: 8%;
+	float: left;
+	padding: 4% 0;
+}
+nav ul li{
+	font-size: 110%;
+	text-align: left;
+	margin: 1em -1.3em;
+	list-style-type: none;
+}
+#content{
+	width: 92%;
+	background-color: lightgreen;
+	float: right;
+}
+#content h2{
+	text-align: center;
+}
+#content p{
+	padding: 0 1% 0 2%;
+}
+footer{
+	width: 100%;
+	background-color: black;
+	color: white;
+	position: relative;
+	margin-top: -3em;
+	height: 1.5em;
+	clear: both;
+	text-align: center;
+}
